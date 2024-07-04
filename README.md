@@ -1,1 +1,1 @@
-"# sharz-bank-console" 
+"# bank-console" 
